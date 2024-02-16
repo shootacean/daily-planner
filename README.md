@@ -1,2 +1,2 @@
-# daily-planner
+# day-planner
 Web apps to keep you focused on today
